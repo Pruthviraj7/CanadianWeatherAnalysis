@@ -12,11 +12,16 @@ This project involves an in-depth analysis of historical temperature data across
 - **Clustered Bar Chart**: Comparing average minimum and maximum temperatures across provinces.
 - **Table**: Detailed information on station, latitude, longitude, and elevation for each province.
 - **Slicers**: Enabling dynamic filtering by province and year.
+  
+  ![image](https://github.com/user-attachments/assets/18198d61-5f1a-43b7-8248-922bc3daddee)
+
 
 ### Page 2: Decade and Seasonal Analysis
 - **Clustered Column Chart**: Showing average temperatures by decade and season.
 - **Pie Charts**: Displaying maximum and minimum temperatures by decade and their percentages.
 - **Slicers**: Allowing selection of season, year, and decade for detailed analysis.
+  
+![image](https://github.com/user-attachments/assets/7bc1e785-5f52-4b74-8405-777696089e06)
 
 ## Key Insights
 
